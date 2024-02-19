@@ -29,7 +29,3 @@ python main.py
 - When you run the main script, you'll see a menu with options to list books, add a new book, or remove a book.
 - Follow the prompts to perform the desired action.
 - The list of books is stored in the `data/books.txt` file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
