@@ -1,0 +1,11 @@
+The Great Gatsby, F. Scott Fitzgerald, 1925, 180
+To Kill a Mockingbird, Harper Lee, 1960, 281
+Pride and Prejudice, Jane Austen, 1813, 279
+The Hobbit, J.R.R. Tolkien, 1937, 310
+Animal Farm, George Orwell, 1945, 112
+The Lord of the Rings, J.R.R. Tolkien, 1954, 1178
+Harry Potter and the Philosopher's Stone, J.K. Rowling, 1997, 223
+The Hunger Games, Suzanne Collins, 2008, 374
+The Alchemist, Paulo Coelho, 1988, 197
+Crime and Punishment, Fyodor Dostoevsky, 1866, 671The Little Prince,Antoine de Saint-Exupery,1943,96
+Little Prince,Antoine de Saint-Exupéry,1943,96
