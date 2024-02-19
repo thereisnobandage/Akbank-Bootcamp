@@ -8,4 +8,4 @@ Harry Potter and the Philosopher's Stone, J.K. Rowling, 1997, 223
 The Hunger Games, Suzanne Collins, 2008, 374
 The Alchemist, Paulo Coelho, 1988, 197
 Crime and Punishment, Fyodor Dostoevsky, 1866, 671The Little Prince,Antoine de Saint-Exupery,1943,96
-Little Prince,Antoine de Saint-Exupéry,1943,96
+Little Prince,Antoine de Saint-Exupery,1943,96

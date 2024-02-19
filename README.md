@@ -1,27 +1,11 @@
-# Akbank-Bootcamp
-
 # Library Management System
 
 This project is a simple Library Management System. It allows users to list books, add new books, and remove existing books from a database file.
-
-# Installation
 
 1. Clone the repository:
 
 ```
 https://github.com/thereisnobandage/Akbank-Bootcamp.git
-```
-
-2. Navigate to the project directory:
-
-```
-cd Akbank-Bootcamp
-```
-
-3. Run the main script:
-
-```
-python main.py
 ```
 
 ## Usage
